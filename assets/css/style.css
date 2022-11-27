@@ -43,6 +43,7 @@ a:hover {
 }
 
 
-/* #content {
+#content {
     background-color: #eaeef8;
-} */
+    height: 42rem;
+}
